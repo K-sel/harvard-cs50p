@@ -16,14 +16,6 @@ Le cours couvre les fondamentaux de la programmation avec Python :
 - **Object-Oriented Programming** - Programmation orientée objet
 - **Et cetera** - Concepts avancés et bonnes pratiques
 
-## 📋 Progression
-
-**Statut actuel :** 🟡 En cours - Début du programme
-
-Je documente ici mes exercices et projets au fur et à mesure de ma progression dans le cours.
-
----
-
 ## 🚀 Objectifs d'apprentissage
 
 Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaScript), Python n'est pas abordé dans mon cursus d'ingénieur. Je souhaite donc cheminer à travers ce langage depuis ses fondamentaux pour en maîtriser les spécificités.
@@ -33,3 +25,11 @@ Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaSc
 - Acquérir des **compétences en testing** et debugging
 - Comprendre les principes de la **programmation orientée objet**
 - Constituer un **portfolio** de projets Python concrets
+
+
+## 📋 Progression
+
+**Statut actuel :** 🟡 En cours - Début du programme
+
+Je documente ici mes exercices et projets au fur et à mesure de ma progression dans le cours.
+
