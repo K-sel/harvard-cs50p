@@ -29,7 +29,18 @@ Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaSc
 
 ## 📋 Progression
 
-**Statut actuel :** 🟡 En cours - Début du programme
+### 🟢 Week 0 - Functions, Variables ✅
+**🔧 Concepts appris** : Syntaxe de base Python, fonctions, variables, types de données, input/output, manipulation de chaînes, formatage avec f-strings
 
-Je documente ici mes exercices et projets au fur et à mesure de ma progression dans le cours.
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 0 : https://cs50.harvard.edu/python/2022/psets/0/
+
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|--------|----------|
+| **Indoor Voice** | Conversion d'une chaîne de caractères en minuscules | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/indoor/indoor.py) |
+| **Playback Speed** | Remplacement des espaces par "..." dans une chaîne | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/playback/playback.py) |
+| **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/faces/faces.py) |
+| **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/einstein/einstein.py) |
+| **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/tip/tip.py) |
 
