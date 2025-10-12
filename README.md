@@ -16,15 +16,6 @@ Le cours couvre les fondamentaux de la programmation avec Python :
 - **Object-Oriented Programming** - Programmation orientée objet
 - **Et cetera** - Concepts avancés et bonnes pratiques
 
-## 🎯 Ma démarche
-
-Passionné par l'informatique, j'entreprends cette formation pour :
-- **Apprendre Python méthodiquement** - Bien que je possède déjà de l'expérience en programmation (C, JavaScript), Python n'est pas abordé dans mon cursus d'ingénieur. Je souhaite donc cheminer à travers ce langage depuis ses fondamentaux pour en maîtriser les spécificités et les idiomes
-- **Renforcer mes compétences** en programmation orientée objet
-- **Maîtriser les bonnes pratiques** de développement Python
-- **Préparer mon Master** en Computer Science à la HES-SO
-- **Compléter ma formation** autodidacte en informatique
-
 ## 📋 Progression
 
 **Statut actuel :** 🟡 En cours - Début du programme
@@ -35,14 +26,10 @@ Je documente ici mes exercices et projets au fur et à mesure de ma progression 
 
 ## 🚀 Objectifs d'apprentissage
 
+Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaScript), Python n'est pas abordé dans mon cursus d'ingénieur. Je souhaite donc cheminer à travers ce langage depuis ses fondamentaux pour en maîtriser les spécificités.
+
 - Maîtriser la **syntaxe Python** et ses idiomes
 - Développer une **approche pythonique** de la résolution de problèmes
 - Acquérir des **compétences en testing** et debugging
 - Comprendre les principes de la **programmation orientée objet**
 - Constituer un **portfolio** de projets Python concrets
-
----
-
-**Repository GitHub :** *[Lien à venir]*
-
-**Lien vers le cours :** [CS50P sur edX](https://cs50.harvard.edu/python/)
