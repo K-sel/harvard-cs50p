@@ -1,6 +1,6 @@
 # Harvard CS50P - Mon Parcours d'Apprentissage
 
-**CS50P** (CS50's Introduction to Programming with Python) est le cours d'introduction à la programmation Python de Harvard. Proposé gratuitement via edX, il permet d'acquérir une base solide en programmation à travers le langage Python.
+**CS50P** (CS50's Introduction to Programming with Python) est le cours d'introduction à la programmation Python de Harvard. Proposé gratuitement via edX, il permet d'acquérir une base en programmation à travers le langage Python.
 
 ## 📚 Aperçu du programme
 
@@ -18,7 +18,7 @@ Le cours couvre les fondamentaux de la programmation avec Python :
 
 ## 🚀 Objectifs d'apprentissage
 
-Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaScript), Python n'est pas abordé dans mon cursus d'ingénieur. Je souhaite donc cheminer à travers ce langage depuis ses fondamentaux pour en maîtriser les spécificités.
+Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaScript), Python n'est pas abordé dans mon cursus d'ingénieur. Je souhaite donc cheminer à travers ce langage depuis ses fondamentaux pour en maîtriser les spécificités et la syntaxe, c'est donc un projet moins complexe mais enrichissant. 
 
 - Maîtriser la **syntaxe Python** et ses idiomes
 - Développer une **approche pythonique** de la résolution de problèmes
