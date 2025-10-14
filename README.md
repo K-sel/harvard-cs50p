@@ -27,7 +27,7 @@ Bien que je possède déjà de l'expérience en programmation (Java, PHP, JavaSc
 - Constituer un **portfolio** de projets Python concrets
 
 
-## 📋 Progression
+## 📋 Progression par semaine
 
 ### 🟢 Week 0 - Functions, Variables ✅
 **🔧 Concepts appris** : Syntaxe de base Python, fonctions, variables, types de données, input/output, manipulation de chaînes, formatage avec f-strings
@@ -43,4 +43,19 @@ Lien vers le Problem Set Week 0 : https://cs50.harvard.edu/python/2022/psets/0/
 | **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/faces/faces.py) |
 | **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/einstein/einstein.py) |
 | **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/tip/tip.py) |
+
+### 🟢 Week 1 - Conditionals ✅
+**🔧 Concepts appris** : Structures conditionnelles (if, elif, else), opérateurs de comparaison, opérateurs logiques (and, or, not), expressions booléennes, match-case (Python 3.10+)
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 1 : https://cs50.harvard.edu/python/2022/psets/1/
+
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|--------|----------|
+| **Deep Thought** | Vérification de la réponse à la Grande Question sur la Vie, l'Univers et le Reste | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/deep/) | [deep.py](lien_à_ajouter) |
+| **Home Federal Savings Bank** | Validation de salutations selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/bank/) | [bank.py](lien_à_ajouter) |
+| **File Extensions** | Détermination du type MIME d'un fichier selon son extension | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/extensions/) | [extensions.py](lien_à_ajouter) |
+| **Math Interpreter** | Interpréteur d'expressions arithmétiques simples | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/interpreter/) | [interpreter.py](lien_à_ajouter) |
+| **Meal Time** | Détermination du repas approprié selon l'heure de la journée | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/meal/) | [meal.py](lien_à_ajouter) |
 
