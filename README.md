@@ -38,11 +38,11 @@ Lien vers le Problem Set Week 0 : https://cs50.harvard.edu/python/2022/psets/0/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|--------|----------|
-| **Indoor Voice** | Conversion d'une chaîne de caractères en minuscules | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/indoor/indoor.py) |
-| **Playback Speed** | Remplacement des espaces par "..." dans une chaîne | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/playback/playback.py) |
-| **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/faces/faces.py) |
-| **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/einstein/einstein.py) |
-| **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/tip/tip.py) |
+| **Indoor Voice** | Conversion d'une chaîne de caractères en minuscules | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/indoor/indoor.py) |
+| **Playback Speed** | Remplacement des espaces par "..." dans une chaîne | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/playback/playback.py) |
+| **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/faces/faces.py) |
+| **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/einstein/einstein.py) |
+| **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/tip/tip.py) |
 
 ### 🟢 Week 1 - Conditionals ✅
 **🔧 Concepts appris** : Structures conditionnelles (if, elif, else), opérateurs de comparaison, opérateurs logiques (and, or, not), expressions booléennes, match-case (Python 3.10+)
@@ -53,9 +53,23 @@ Lien vers le Problem Set Week 1 : https://cs50.harvard.edu/python/2022/psets/1/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|--------|----------|
-| **Deep Thought** | Vérification de la réponse à la Grande Question sur la Vie, l'Univers et le Reste | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/deep/) | [deep.py](lien_à_ajouter) |
-| **Home Federal Savings Bank** | Validation de salutations selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/bank/) | [bank.py](lien_à_ajouter) |
-| **File Extensions** | Détermination du type MIME d'un fichier selon son extension | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/extensions/) | [extensions.py](lien_à_ajouter) |
-| **Math Interpreter** | Interpréteur d'expressions arithmétiques simples | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/interpreter/) | [interpreter.py](lien_à_ajouter) |
-| **Meal Time** | Détermination du repas approprié selon l'heure de la journée | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/meal/) | [meal.py](lien_à_ajouter) |
+| **Deep Thought** | Vérification de la réponse à la Grande Question sur la Vie, l'Univers et le Reste | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/deep/) | [deep.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/deep/deep.py) |
+| **Home Federal Savings Bank** | Validation de salutations selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/bank/) | [bank.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/bank/bank.py) |
+| **File Extensions** | Détermination du type MIME d'un fichier selon son extension | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/extensions/) | [extensions.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/extensions/extensions.py) |
+| **Math Interpreter** | Interpréteur d'expressions arithmétiques simples | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/interpreter/) | [interpreter.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/interpreter/interpreter.py) |
+| **Meal Time** | Détermination du repas approprié selon l'heure de la journée | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/meal/) | [meal.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/meal/meal.py) |
 
+### 🟢 Week 2 - Loops ✅
+**🔧 Concepts appris** : Boucles while et for, itération sur des séquences, range(), continue et break, validation d'entrées utilisateur, structures de données itérables
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 2 : https://cs50.harvard.edu/python/2022/psets/2/
+
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|--------|----------|
+| **camelCase** | Conversion de noms de variables camelCase en snake_case | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/camel/) | [camel.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/camel.py) |
+| **Coke Machine** | Simulation d'une machine à Coca-Cola acceptant des pièces | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/coke/) | [coke.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/coke.py) |
+| **Just setting up my twttr** | Suppression des voyelles d'un texte (style Twitter ancien) | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/twttr/) | [twttr.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/twttr.py) |
+| **Vanity Plates** | Validation de plaques d'immatriculation personnalisées selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/plates/) | [plates.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/plates.py) |
+| **Nutrition Facts** | Affichage des calories de fruits à partir d'une base de données nutritionnelle | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/nutrition/) | [nutrition.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/nutrition.py) |
