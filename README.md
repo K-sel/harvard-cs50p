@@ -73,3 +73,17 @@ Lien vers le Problem Set Week 2 : https://cs50.harvard.edu/python/2022/psets/2/
 | **Just setting up my twttr** | Suppression des voyelles d'un texte (style Twitter ancien) | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/twttr/) | [twttr.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/twttr.py) |
 | **Vanity Plates** | Validation de plaques d'immatriculation personnalisées selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/plates/) | [plates.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/plates.py) |
 | **Nutrition Facts** | Affichage des calories de fruits à partir d'une base de données nutritionnelle | [Énoncé](https://cs50.harvard.edu/python/2022/psets/2/nutrition/) | [nutrition.py](https://github.com/K-sel/harvard-cs50p/blob/main/week2/nutrition.py) |
+
+### 🟢 Week 3 - Exceptions ✅
+**🔧 Concepts appris** : Gestion des exceptions avec try/except, types d'exceptions (ValueError, ZeroDivisionError, EOFError, etc.), levée d'exceptions avec raise, création de boucles de validation robustes, gestion d'erreurs multiples
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 3 : https://cs50.harvard.edu/python/2022/psets/3/
+
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|--------|----------|
+| **Fuel Gauge** | Conversion de fractions en pourcentages avec gestion d'erreurs | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/fuel/) | [fuel.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/fuel/fuel.py) |
+| **Felipe's Taqueria** | Système de caisse pour un restaurant avec menu et total cumulatif | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/taqueria/) | [taqueria.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/taqueria/taqueria.py) |
+| **Grocery List** | Création d'une liste de courses avec comptage et tri alphabétique | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/grocery/) | [grocery.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/grocery/grocery.py) |
+| **Outdated** | Conversion de dates en format ISO 8601 (YYYY-MM-DD) | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/outdated/) | [outdated.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/outdated/outdated.py) |
