@@ -1,0 +1,19 @@
+# IDE & Editor
+.vscode/
+.vscode/settings.json
+.devcontainer.json
+
+# macOS
+.DS_Store
+
+# Images & médias
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+*.webp
+*.bmp
+*.ico
+*.tiff
