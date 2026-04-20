@@ -37,11 +37,11 @@ Lien vers le Problem Set Week 0 : https://cs50.harvard.edu/python/2022/psets/0/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|--------|----------|
-| **Indoor Voice** | Conversion d'une chaîne de caractères en minuscules | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/indoor/indoor.py) |
-| **Playback Speed** | Remplacement des espaces par "..." dans une chaîne | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/playback/playback.py) |
-| **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/faces/faces.py) |
-| **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/einstein/einstein.py) |
-| **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/tip/tip.py) |
+| **Indoor Voice** | Conversion d'une chaîne de caractères en minuscules | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/indoor.py) |
+| **Playback Speed** | Remplacement des espaces par "..." dans une chaîne | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/playback.py) |
+| **Making Faces** | Conversion d'émoticônes textuelles en emojis | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/faces.py) |
+| **Einstein** | Calcul de l'énergie selon la formule E=mc² | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/einstein.py) |
+| **Tip Calculator** | Calcul du pourboire basé sur le montant du repas et le pourcentage souhaité | [Énoncé](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/K-sel/harvard-cs50p/blob/main/week0/tip.py) |
 
 ### 🟢 Week 1 - Conditionals ✅
 **🔧 Concepts appris** : Structures conditionnelles (if, elif, else), opérateurs de comparaison, opérateurs logiques (and, or, not), expressions booléennes, match-case (Python 3.10+)
@@ -52,11 +52,11 @@ Lien vers le Problem Set Week 1 : https://cs50.harvard.edu/python/2022/psets/1/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|--------|----------|
-| **Deep Thought** | Vérification de la réponse à la Grande Question sur la Vie, l'Univers et le Reste | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/deep/) | [deep.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/deep/deep.py) |
-| **Home Federal Savings Bank** | Validation de salutations selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/bank/) | [bank.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/bank/bank.py) |
-| **File Extensions** | Détermination du type MIME d'un fichier selon son extension | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/extensions/) | [extensions.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/extensions/extensions.py) |
-| **Math Interpreter** | Interpréteur d'expressions arithmétiques simples | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/interpreter/) | [interpreter.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/interpreter/interpreter.py) |
-| **Meal Time** | Détermination du repas approprié selon l'heure de la journée | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/meal/) | [meal.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/meal/meal.py) |
+| **Deep Thought** | Vérification de la réponse à la Grande Question sur la Vie, l'Univers et le Reste | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/deep/) | [deep.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/deep.py) |
+| **Home Federal Savings Bank** | Validation de salutations selon des règles spécifiques | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/bank/) | [bank.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/bank.py) |
+| **File Extensions** | Détermination du type MIME d'un fichier selon son extension | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/extensions/) | [extensions.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/extensions.py) |
+| **Math Interpreter** | Interpréteur d'expressions arithmétiques simples | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/interpreter/) | [interpreter.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/interpreter.py) |
+| **Meal Time** | Détermination du repas approprié selon l'heure de la journée | [Énoncé](https://cs50.harvard.edu/python/2022/psets/1/meal/) | [meal.py](https://github.com/K-sel/harvard-cs50p/blob/main/week1/meal.py) |
 
 ### 🟢 Week 2 - Loops ✅
 **🔧 Concepts appris** : Boucles while et for, itération sur des séquences, range(), continue et break, validation d'entrées utilisateur, structures de données itérables
@@ -82,10 +82,10 @@ Lien vers le Problem Set Week 3 : https://cs50.harvard.edu/python/2022/psets/3/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|--------|----------|
-| **Fuel Gauge** | Conversion de fractions en pourcentages avec gestion d'erreurs | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/fuel/) | [fuel.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/fuel/fuel.py) |
-| **Felipe's Taqueria** | Système de caisse pour un restaurant avec menu et total cumulatif | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/taqueria/) | [taqueria.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/taqueria/taqueria.py) |
-| **Grocery List** | Création d'une liste de courses avec comptage et tri alphabétique | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/grocery/) | [grocery.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/grocery/grocery.py) |
-| **Outdated** | Conversion de dates en format ISO 8601 (YYYY-MM-DD) | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/outdated/) | [outdated.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/outdated/outdated.py) |
+| **Fuel Gauge** | Conversion de fractions en pourcentages avec gestion d'erreurs | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/fuel/) | [fuel.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/fuel.py) |
+| **Felipe's Taqueria** | Système de caisse pour un restaurant avec menu et total cumulatif | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/taqueria/) | [taqueria.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/taqueria.py) |
+| **Grocery List** | Création d'une liste de courses avec comptage et tri alphabétique | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/grocery/) | [grocery.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/grocery.py) |
+| **Outdated** | Conversion de dates en format ISO 8601 (YYYY-MM-DD) | [Énoncé](https://cs50.harvard.edu/python/2022/psets/3/outdated/) | [outdated.py](https://github.com/K-sel/harvard-cs50p/blob/main/week3/outdated.py) |
 
 ### 🟢 Week 4 - Libraries ✅
 **🔧 Concepts appris** : Import de modules (import, from…import, alias), librairies standard (random, statistics, sys), packages tiers via pip, arguments CLI avec sys.argv, slices, requêtes HTTP avec requests, sérialisation JSON
